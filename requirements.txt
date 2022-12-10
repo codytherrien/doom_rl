@@ -1,0 +1,7 @@
+vizdoom
+numpy
+gym==0.19.0
+matplotlib
+opencv-python==4.5.2.52
+torch
+stable-baselines3
